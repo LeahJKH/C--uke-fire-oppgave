@@ -11,7 +11,7 @@ public class Controller
 
     public void Run()
     {
-        Console.WriteLine("velg Digimon id:");
+        Console.Write("velg Digimon id:");
         int answear = Convert.ToInt32(Console.ReadLine());
 
 var result = _dataset.DigiMons.Where(s => s.Number == answear);

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# uke fire oppgave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d0149d81a37ce39725045cb95b73f15babc884f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada1ffa1fac31a1e71339ae35921aaa763522a9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# uke fire oppgave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# uke fire oppgave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\refint
 C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.pdb
 C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.genruntimeconfig.cache
 C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\ref\C# uke fire oppgave.dll
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.sourcelink.json
