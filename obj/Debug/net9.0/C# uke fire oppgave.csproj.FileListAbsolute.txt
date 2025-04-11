@@ -1,0 +1,14 @@
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\bin\Debug\net9.0\C# uke fire oppgave.exe
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\bin\Debug\net9.0\C# uke fire oppgave.deps.json
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\bin\Debug\net9.0\C# uke fire oppgave.runtimeconfig.json
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\bin\Debug\net9.0\C# uke fire oppgave.dll
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\bin\Debug\net9.0\C# uke fire oppgave.pdb
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.AssemblyInfoInputs.cache
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.AssemblyInfo.cs
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.csproj.CoreCompileInputs.cache
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.dll
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\refint\C# uke fire oppgave.dll
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.pdb
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\C# uke fire oppgave.genruntimeconfig.cache
+C:\Users\leahj\Documents\code\CSharp\C# uke fire oppgave\obj\Debug\net9.0\ref\C# uke fire oppgave.dll
